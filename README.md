@@ -1,8 +1,8 @@
-# CSCI 5117 Spring 2022 -- Module 1 Homework
+# CSCI 5117 Spring 2023 -- Module 1 Homework
 
-Instructions can be [found on canvas](https://canvas.umn.edu/courses/291031/pages/homework-1)
+Instructions can be [found on canvas](https://canvas.umn.edu/courses/355584/pages/homework-1)
 
-Please fill out all of the following sections to help us grade your submission:
+You are required to fill out all of the following sections to help us grade your submission:
 
 ## Student (to be completed individually)
 
@@ -10,11 +10,15 @@ Please fill out all of the following sections to help us grade your submission:
 
 ## Link to Site
 
-<https://TODO.herokuapp.com/>
+<https://TODO.com/>
 
 ## Challenge Task
 
 * I started the challenge task: [yes/no]
 * I completed the challenge task: [yes/no]
 
-(if applicable) link: <https://TODO.herokuapp.com/admin/summary>
+(if applicable) link: <https://TODO.com/admin/summary>
+
+## Any Extra Notes?
+
+Fill in this with anything else you would like us to know about your submission.
